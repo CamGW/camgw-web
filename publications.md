@@ -1,8 +1,3 @@
----
-layout: default
-title: Publications
----
-
 # Publications
 
 ## Recent Publications
