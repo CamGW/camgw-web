@@ -1,8 +1,3 @@
----
-layout: default
-title: News & Announcements
----
-
 # News & Announcements
 
 ## Latest News
