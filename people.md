@@ -1,8 +1,3 @@
----
-layout: default
-title: People
----
-
 # People
 
 ## Principal Investigators
