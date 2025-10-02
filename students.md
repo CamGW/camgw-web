@@ -1,8 +1,3 @@
----
-layout: default
-title: Information for Students
----
-
 # Information for Students
 
 ## Opportunities
