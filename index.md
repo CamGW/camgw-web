@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
----
-
 # Welcome to CamGW
 
 Cambridge Gravitational Waves Initiative
