@@ -1,8 +1,3 @@
----
-layout: default
-title: Research Themes and Activities
----
-
 # Research Themes and Activities
 
 ## Overview
