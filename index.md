@@ -6,6 +6,8 @@ Cambridge Gravitational Waves Initiative
 
 CamGW is a collaborative initiative bringing together researchers from various departments at the University of Cambridge working on gravitational wave science.
 
+![GW](assets/images/gw_header.png)
+
 ## Participating Departments
 
 - **Department of Applied Mathematics and Theoretical Physics (DAMTP)**
