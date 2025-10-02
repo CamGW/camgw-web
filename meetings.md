@@ -1,8 +1,3 @@
----
-layout: default
-title: Meetings
----
-
 # Meetings
 
 ## Upcoming Meetings
