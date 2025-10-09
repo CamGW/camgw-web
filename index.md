@@ -1,19 +1,15 @@
 # Welcome to CamGW
 
-Cambridge Gravitational Waves Initiative
-
-## About CamGW
-
 CamGW is a collaborative initiative bringing together researchers from various departments at the University of Cambridge working on gravitational wave science.
 
 ![GW](assets/images/gw_header.png)
 
-## Participating Departments
+## Participating Departments and Institutes
 
-- **Department of Applied Mathematics and Theoretical Physics (DAMTP)**
-- **Institute of Astronomy (IoA)**
-- **Cavendish Laboratory**
-- **Department of Physics**
+- **[Department of Applied Mathematics and Theoretical Physics (DAMTP)](https://www.damtp.cam.ac.uk/)**
+- **[Institute of Astronomy (IoA)](https://www.ast.cam.ac.uk/)**
+- **[Cavendish Laboratory (Department of Physics)](https://www.phy.cam.ac.uk/)**
+- **[Kavli Institute for Cosmology Cambridge (KICC)](https://www.kicc.cam.ac.uk/)**
 
 ## Quick Links
 
