@@ -7,7 +7,7 @@
      style="float: left; margin: 0px 40px 10px 0; width: 140px; height: 140px">
 ### [James Alvey](https://www.cai.cam.ac.uk/people/dr-james-alvey)
 - **Department:** KICC and IoA
-- **Research Interests:** ...
+- **Research Interests:** Simulation-based inference, LISA, machine learning, bayesian inference
 - **Email:** [jbga2@cam.ac.uk](mailto:jbga2@cam.ac.uk)
 <div style="clear: both;"></div>
 
