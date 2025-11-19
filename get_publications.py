@@ -69,6 +69,9 @@ for year in ['2025', '2024', '2023']:
 
         if len(list(set(authors) & set(allnames))) == 0: continue
 
+        # Skip papers with more than 10 authors
+        if len(authors) > 10: continue
+
         if len(authors) <= 10:
             for author in authors:
                 if author in allnames:

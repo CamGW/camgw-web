@@ -20,20 +20,6 @@ Students interested in getting involved with CamGW research should:
 2. Contact potential supervisors (see [People](people.html))
 3. Explore current research themes (see [Research](research.html))
 
-## Resources
-
-### Learning Materials
-
-- Links to gravitational wave tutorials
-- Recommended textbooks and papers
-- Online courses and lectures
-
-### Software and Tools
-
-- Data analysis tools
-- Simulation software
-- Computational resources
-
 ## Funding Opportunities
 
 Information about scholarships, grants, and funding opportunities for students will be posted here.

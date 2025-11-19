@@ -1,8 +1,12 @@
 # Welcome to CamGW
 
+<img src="assets/images/logo-v1.png" alt="CamGW Logo" style="float: left; margin: 0px 40px 20px 0; width: 200px;">
+
 CamGW is a collaborative initiative bringing together researchers from various departments at the University of Cambridge working on gravitational wave science.
 
-![GW](assets/images/gw_header.png)
+<div style="clear: both;"></div>
+
+![Inaugural CamGW meeting](assets/meetings/2025-03-11/meeting-photo.jpg)
 
 ## Participating Departments and Institutes
 
