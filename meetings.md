@@ -2,7 +2,12 @@
 
 ## Upcoming Meetings
 
-Details of upcoming CamGW meetings will be posted here.
+### 27 November 2025
+
+**Time:** 09:30
+**Location:** Ryle Meeting Room, KICC
+
+Further details and agenda to be announced.
 
 ## Past Meetings
 
