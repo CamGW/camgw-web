@@ -32,29 +32,9 @@
 
 ## Faculty
 
-### Name 1
-- **Department:** DAMTP
-- **Research Interests:** Gravitational wave theory, numerical relativity
-- **Email:** [email@cam.ac.uk](mailto:email@cam.ac.uk)
-
-### Name 2
-- **Department:** Institute of Astronomy
-- **Research Interests:** Gravitational wave astronomy, compact objects
-- **Email:** [email@cam.ac.uk](mailto:email@cam.ac.uk)
-
 ## Research Fellows and Postdocs
 
-### Researcher 1
-- **Department:**
-- **Research Interests:**
-- **Email:**
-
 ## Graduate Students
-
-### Student 1
-- **Department:**
-- **Research Interests:**
-- **Email:**
 
 ## Alumni
 

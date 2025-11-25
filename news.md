@@ -6,43 +6,20 @@ Stay updated with the latest developments in gravitational wave research at Camb
 
 ### 2025
 
-**Month Day, 2025**
-- Announcement title
-- Brief description of the news item
+**November 27, 2025**
+- **Upcoming CamGW Meeting**
+- Join us for our next CamGW meeting at 09:30 in the Ryle Meeting Room, KICC.
 
-**Month Day, 2025**
-- Announcement title
-- Brief description of the news item
-
-### 2024
-
-**Month Day, 2024**
-- Announcement title
-- Brief description of the news item
-
-**Month Day, 2024**
-- Announcement title
-- Brief description of the news item
+**March 11, 2025**
+- **Inaugural CamGW Meeting at KICC**
+- We held our inaugural event as a Kavli Science Focus Meeting at KICC, titled *"CamGW: Surveying the range of gravitational-wave science in Cambridge"*. The day featured excellent talks and panel discussions with over forty participants from across CamGW's affiliated departments. [Recording available on YouTube](https://www.youtube.com/watch?v=eolnD-fOduk).
 
 ## Upcoming Events
 
-### Seminars and Talks
-
 Details of upcoming seminars, talks, and colloquia related to gravitational wave physics will be posted here.
-
-### Conferences and Workshops
-
-Information about relevant conferences and workshops that CamGW members are organizing or attending.
-
-### Observing Runs
-
-Updates on current and upcoming observing runs of gravitational wave detectors.
 
 ## Recent Highlights
 
-- Notable detections
-- Major publications
-- Awards and recognition
-- Outreach activities
+Major publications, awards and recognition, and outreach activities will be posted here.
 
 [Back to Home](index.html)
