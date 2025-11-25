@@ -64,21 +64,51 @@ for year in ['2025', '2024', '2023']:
                              reverse=True,
                              key=lambda x: x[1]))
 
+    papers = []
+    collaboration_papers = []
+
     for entry in entries:
         authors = [author['name'] for author in entry.authors]
 
         if len(list(set(authors) & set(allnames))) == 0: continue
 
-        # Skip papers with more than 10 authors
-        if len(authors) > 10: continue
+        try:
+            link = 'https://doi.org/' + entry.arxiv_doi
+        except AttributeError:
+            link = entry.id
 
-        if len(authors) <= 10:
+        if 'Collaboration' in authors[0]:
+            collaborations = authors[0]
+            for author in authors[1:]:
+                if 'Collaboration' in author:
+                    collaborations = collaborations + ', ' + author
+                else:
+                    break
+            incauthors = list()
+            for author in authors:
+                if author in allnames:
+                    incauthors.append('**' + author + '**')
+            if len(incauthors) > 1:
+                incauthors[-1] = 'and ' + incauthors[-1]
+            authors = str(collaborations
+                          + ' (inc. ' + ', '.join(incauthors) + ')')
+            collaboration_papers.append(
+                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                    authors, entry.title, link, entry.id.split('/')[-1][:-2],
+                    entry.arxiv_primary_category['term']))
+
+        elif len(authors) <= 10:
             for author in authors:
                 if author in allnames:
                     authors[authors.index(author)] = '**' + author + '**'
             if len(authors) > 1:
                 authors[-1] = 'and ' + authors[-1]
             authors = ', '.join(authors)
+            papers.append(
+                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                    authors, entry.title, link, entry.id.split('/')[-1][:-2],
+                    entry.arxiv_primary_category['term']))
+
         else:
             incauthors = list()
             for author in authors[1:]:
@@ -88,27 +118,22 @@ for year in ['2025', '2024', '2023']:
                 incauthors[-1] = 'and ' + incauthors[-1]
             if authors[0] in allnames:
                 authors[0] = '**' + authors[0] + '**'
-            if 'Collaboration' not in authors[0]:
-                authors[0] = authors[0] + ' *et al.*'
+            authors[0] = authors[0] + ' *et al.*'
             if len(incauthors) == 0:
                 authors = str(authors[0])
             else:
                 authors = str(authors[0]
                               + ' (inc. ' + ', '.join(incauthors) + ')')
+            papers.append(
+                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                    authors, entry.title, link, entry.id.split('/')[-1][:-2],
+                    entry.arxiv_primary_category['term']))
 
-        try:
-            link = 'https://doi.org/' + entry.arxiv_doi
-        except AttributeError:
-            link = entry.id
+    for paper in papers: file.write(paper)
+    file.write('\n')
 
-        file.write('- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
-            authors,
-            entry.title,
-            link,
-            entry.id.split('/')[-1][:-2],
-            entry.arxiv_primary_category['term']
-        ))
-
+    file.write('##### LVK Collaboration Papers\n')
+    for paper in collaboration_papers: file.write(paper)
     file.write('\n')
 
 file.close()
