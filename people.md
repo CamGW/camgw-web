@@ -25,7 +25,7 @@
      style="float: left; margin: 20px 40px 30px 0; width: 140px; height: 140px">
 ### [Nikhil Sarin](https://nikhil-sarin.github.io/)
 - **Department:** KICC and IoA
-- **Research Interests:** ...
+- **Research Interests:** Gravitational waves, neutron stars, and EM transients
 - **Email:** [ns2043@cam.ac.uk](mailto:ns2043@cam.ac.uk)
 <div style="clear: both;"></div>
 
