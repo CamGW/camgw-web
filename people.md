@@ -36,6 +36,15 @@
 
 ## Graduate Students
 
+<img src="assets/people/seppe-staelens.jpg"
+     alt="Seppe Staelens"
+     style="float: left; margin: 20px 40px 30px 0; width: 140px; height: 140px">
+### [Seppe Staelens](https://seppestaelens.github.io/)
+- **Department:** DAMTP
+- **Research Interests:** Gravitational waves, numerical relativity, boson stars, black holes, machine learning
+- **Email:** [ss3033@cam.ac.uk](mailto:ss3033@cam.ac.uk)
+<div style="clear: both;"></div>
+
 ## Alumni
 
 Former members of CamGW who have moved on to other positions.
