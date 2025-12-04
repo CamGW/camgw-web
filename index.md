@@ -1,4 +1,4 @@
-<img src="assets/images/logo-v1.png" alt="CamGW Logo" style="float: left; class: center; margin: 16px 40px 16px 0px; width: 150px;">
+<img src="assets/images/logo-v1.png" alt="CamGW Logo" style="float: left; margin: 16px 40px 16px 0px; width: 150px;">
 
 # Welcome to CamGW
 
