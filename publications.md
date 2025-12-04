@@ -68,3 +68,4 @@ A selection of recent publications by CamGW members.
 - The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration (inc. **A. C. Jenkins**, and **N. Sarin**), [*Search for gravitational-lensing signatures in the full third observing run of the LIGO-Virgo network*](http://arxiv.org/abs/2304.08393v1), arXiv:2304.08393 [gr-qc]
 - The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration (inc. **A. C. Jenkins**, and **N. Sarin**), [*Open data from the third observing run of LIGO, Virgo, KAGRA and GEO*](https://doi.org/10.3847/1538-4365/acdc9f), arXiv:2302.03676 [gr-qc]
 
+[Back to Home](index.html)

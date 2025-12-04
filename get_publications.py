@@ -136,4 +136,5 @@ for year in ['2025', '2024', '2023']:
     for paper in collaboration_papers: file.write(paper)
     file.write('\n')
 
+file.write('[Back to Home](index.html)\n')
 file.close()
