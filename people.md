@@ -44,22 +44,31 @@
 
 ## Graduate Students
 
+<img src="assets/people/stephanie-buttigieg.jpg"
+     alt="Stephanie Buttigieg"
+     style="float: left; margin: 0px 40px 10px 0; width: 140px; height: 140px">
+### Stephanie Buttigieg
+- **Department:** IoA and KICC
+- **Research Interests:** Supermassive black hole mergers, cosmological simulations, pulsar timing arrays
+- **Email:** [sb2583@cam.ac.uk](mailto:sb2583@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/richard-dyer.jpg"
      alt="Richard Dyer"
-     style="float: left; margin: 0px 40px 10px 0; width: 140px; height: 140px">
+     style="float: left; margin: 20px 40px 10px 0; width: 140px; height: 140px">
 ### Richard Dyer
 - **Department:** IoA
 - **Research Interests:** Black hole ringdown in numerical relativity, Bayesian inference
 - **Email:** [richard.dyer@ast.cam.ac.uk](mailto:richard.dyer@ast.cam.ac.uk)
 <div style="clear: both;"></div>
 
-<img src="assets/people/stephanie-buttigieg.jpg"
-     alt="Stephanie Buttigieg"
+<img src="assets/people/seppe-staelens.jpg"
+     alt="Seppe Staelens"
      style="float: left; margin: 20px 40px 40px 0; width: 140px; height: 140px">
-### Stephanie Buttigieg
-- **Department:** IoA and KICC
-- **Research Interests:** Supermassive black hole mergers, cosmological simulations, pulsar timing arrays
-- **Email:** [sb2583@cam.ac.uk](mailto:sb2583@cam.ac.uk)
+### [Seppe Staelens](https://seppestaelens.github.io/)
+- **Department:** DAMTP
+- **Research Interests:** Gravitational waves, numerical relativity, boson stars, black holes, machine learning
+- **Email:** [ss3033@cam.ac.uk](mailto:ss3033@cam.ac.uk)
 <div style="clear: both;"></div>
 
 ## Alumni
