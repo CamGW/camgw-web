@@ -22,19 +22,54 @@
 
 <img src="assets/people/nikhil-sarin.jpg"
      alt="Nikhil Sarin"
-     style="float: left; margin: 20px 40px 30px 0; width: 140px; height: 140px">
+     style="float: left; margin: 20px 40px 40px 0; width: 140px; height: 140px">
 ### [Nikhil Sarin](https://nikhil-sarin.github.io/)
 - **Department:** KICC and IoA
 - **Research Interests:** Gravitational waves, neutron stars, and EM transients
 - **Email:** [ns2043@cam.ac.uk](mailto:ns2043@cam.ac.uk)
 <div style="clear: both;"></div>
 
-
 ## Faculty
+
+<img src="assets/people/will-handley.jpg"
+     alt="Will Handley"
+     style="float: left; margin: 0px 40px 30px 0; width: 140px; height: 140px">
+### [Will Handley](https://www.handley-lab.co.uk)
+- **Department:** IoA and KICC
+- **Research Interests:** Bayesian machine learning and nested sampling; early universe cosmology; dark matter constraints (GAMBIT); cosmic dawn detection (REACH); gravitational wave data analysis
+- **Email:** [wh260@cam.ac.uk](mailto:wh260@cam.ac.uk)
+<div style="clear: both;"></div>
 
 ## Research Fellows and Postdocs
 
 ## Graduate Students
+
+<img src="assets/people/stephanie-buttigieg.jpg"
+     alt="Stephanie Buttigieg"
+     style="float: left; margin: 0px 40px 10px 0; width: 140px; height: 140px">
+### Stephanie Buttigieg
+- **Department:** IoA and KICC
+- **Research Interests:** Supermassive black hole mergers, cosmological simulations, pulsar timing arrays
+- **Email:** [sb2583@cam.ac.uk](mailto:sb2583@cam.ac.uk)
+<div style="clear: both;"></div>
+
+<img src="assets/people/richard-dyer.jpg"
+     alt="Richard Dyer"
+     style="float: left; margin: 20px 40px 10px 0; width: 140px; height: 140px">
+### Richard Dyer
+- **Department:** IoA
+- **Research Interests:** Black hole ringdown in numerical relativity, Bayesian inference
+- **Email:** [richard.dyer@ast.cam.ac.uk](mailto:richard.dyer@ast.cam.ac.uk)
+<div style="clear: both;"></div>
+
+<img src="assets/people/seppe-staelens.jpg"
+     alt="Seppe Staelens"
+     style="float: left; margin: 20px 40px 40px 0; width: 140px; height: 140px">
+### [Seppe Staelens](https://seppestaelens.github.io/)
+- **Department:** DAMTP
+- **Research Interests:** Gravitational waves, numerical relativity, boson stars, black holes, machine learning
+- **Email:** [ss3033@cam.ac.uk](mailto:ss3033@cam.ac.uk)
+<div style="clear: both;"></div>
 
 ## Alumni
 

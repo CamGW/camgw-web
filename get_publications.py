@@ -97,6 +97,26 @@ for year in ['2025', '2024', '2023']:
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
                     entry.arxiv_primary_category['term']))
 
+        elif 'LIGO' in ', '.join(authors):
+            incauthors = list()
+            for author in authors[1:]:
+                if author in allnames:
+                    incauthors.append('**' + author + '**')
+            if len(incauthors) > 1:
+                incauthors[-1] = 'and ' + incauthors[-1]
+            if authors[0] in allnames:
+                authors[0] = '**' + authors[0] + '**'
+            authors[0] = authors[0] + ' *et al.*'
+            if len(incauthors) == 0:
+                authors = str(authors[0])
+            else:
+                authors = str(authors[0]
+                              + ' (inc. ' + ', '.join(incauthors) + ')')
+            collaboration_papers.append(
+                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                    authors, entry.title, link, entry.id.split('/')[-1][:-2],
+                    entry.arxiv_primary_category['term']))
+
         elif len(authors) <= 10:
             for author in authors:
                 if author in allnames:
