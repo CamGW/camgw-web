@@ -45,7 +45,7 @@
 <img src="assets/people/david-yallup.jpg"
      alt="David Yallup"
      style="float: left; margin: 0px 40px 30px 0; width: 140px; height: 140px">
-### [David Yallup](https://www.yallup.github.io)
+### [David Yallup](yallup.github.io)
 - **Department:** IoA and KICC
 - **Research Interests:** Bayesian inference; GPU sampling algorithms; gravitational wave data analysis
 - **Email:** [dy297@cam.ac.uk](mailto:dy297@cam.ac.uk)
