@@ -4,10 +4,12 @@ A selection of recent publications by CamGW members.
 
 ## 2025
 
+- **Nikhil Sarin** *et al.*, [*GRBs and Relativistic Transients in the 2040s*](http://arxiv.org/abs/2512.15010v1), arXiv:2512.15010 [astro-ph.HE]
+- Samaya Nissanke *et al.* (inc. **Nikhil Sarin**), [*Multi-messenger and time-domain astronomy in the 2040s*](http://arxiv.org/abs/2512.14546v1), arXiv:2512.14546 [astro-ph.IM]
 - Huifang Lyu, **James Alvey**, Noemi Anau Montel, Mauro Pieroni, and Christoph Weniger, [*Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets*](http://arxiv.org/abs/2510.13997v1), arXiv:2510.13997 [astro-ph.IM]
 - **Richard Dyer**, and Christopher J. Moore, [*Quasinormal modes from numerical relativity with Bayesian inference*](http://arxiv.org/abs/2510.11783v1), arXiv:2510.11783 [gr-qc]
-- David Yallup, Metha Prathaban, **James Alvey**, and **Will Handley**, [*Parallel Nested Slice Sampling for Gravitational Wave Parameter Estimation*](http://arxiv.org/abs/2509.24949v1), arXiv:2509.24949 [astro-ph.IM]
-- Metha Prathaban, David Yallup, **James Alvey**, Ming Yang, Will Templeton, and **Will Handley**, [*Gravitational-wave inference at GPU speed: A bilby-like nested sampling kernel within blackjax-ns*](http://arxiv.org/abs/2509.04336v1), arXiv:2509.04336 [gr-qc]
+- **David Yallup**, Metha Prathaban, **James Alvey**, and **Will Handley**, [*Parallel Nested Slice Sampling for Gravitational Wave Parameter Estimation*](http://arxiv.org/abs/2509.24949v1), arXiv:2509.24949 [astro-ph.IM]
+- Metha Prathaban, **David Yallup**, **James Alvey**, Ming Yang, Will Templeton, and **Will Handley**, [*Gravitational-wave inference at GPU speed: A bilby-like nested sampling kernel within blackjax-ns*](http://arxiv.org/abs/2509.04336v1), arXiv:2509.04336 [gr-qc]
 - Sinah Legner, **Will Handley**, Will Barker, and Adam Ormondroyd, [*Alleviating the Hubble tension with Torsion Condensation (TorC)*](http://arxiv.org/abs/2507.09228v4), arXiv:2507.09228 [astro-ph.CO]
 - Diego Blas, Adrien Bourgoin, Joshua F. Foster, Aurelien Hees, Miriam Herrero-Valea, **Alexander C. Jenkins**, and Xiao Xue, [*Binary systems as gravitational wave detectors*](http://arxiv.org/abs/2506.11802v1), arXiv:2506.11802 [gr-qc]
 - Philippa S. Cole, **James Alvey**, Lorenzo Speri, Christoph Weniger, Uddipta Bhardwaj, Davide Gerosa, and Gianfranco Bertone, [*Sequential simulation-based inference for extreme mass ratio inspirals*](http://arxiv.org/abs/2505.16795v1), arXiv:2505.16795 [gr-qc]
