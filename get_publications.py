@@ -40,7 +40,7 @@ file.write('A selection of recent publications by CamGW members.\n\n')
 
 print('Fetching publications...')
 
-for year in ['2025', '2024', '2023']:
+for year in ['2026', '2025', '2024', '2023']:
     file.write('## ' + year + '\n\n')
     query = str('https://export.arxiv.org/api/query?'
                 + 'search_query=submittedDate:['
@@ -152,9 +152,10 @@ for year in ['2025', '2024', '2023']:
     for paper in papers: file.write(paper)
     file.write('\n')
 
-    file.write('##### LVK Collaboration Papers\n')
-    for paper in collaboration_papers: file.write(paper)
-    file.write('\n')
+    if len(collaboration_papers) > 0:
+        file.write('##### LVK Collaboration Papers\n')
+        for paper in collaboration_papers: file.write(paper)
+        file.write('\n')
 
 file.write('[Back to Home](index.html)\n')
 file.close()
