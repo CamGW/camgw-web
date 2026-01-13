@@ -2,6 +2,11 @@
 
 A selection of recent publications by CamGW members.
 
+## 2026
+
+- Eleni Bagui, Sébastien Clesse, Federico De Lillo, **Alexander C. Jenkins**, and Mairi Sakellariadou, [*Popcorn in the sky: Identifying primordial black holes in the gravitational-wave background*](http://arxiv.org/abs/2601.07774v1), arXiv:2601.07774 [astro-ph.CO]
+- Angelo Ricciardone *et al.* (inc. **Alexander C. Jenkins**), [*Probing Cosmic Expansion and Early Universe with Einstein Telescope*](http://arxiv.org/abs/2601.06017v1), arXiv:2601.06017 [astro-ph.CO]
+
 ## 2025
 
 - **Nikhil Sarin** *et al.*, [*GRBs and Relativistic Transients in the 2040s*](http://arxiv.org/abs/2512.15010v1), arXiv:2512.15010 [astro-ph.HE]
