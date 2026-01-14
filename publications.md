@@ -13,8 +13,8 @@ A selection of recent publications by CamGW members.
 - Samaya Nissanke *et al.* (inc. **Nikhil Sarin**), [*Multi-messenger and time-domain astronomy in the 2040s*](http://arxiv.org/abs/2512.14546v1), arXiv:2512.14546 [astro-ph.IM]
 - Huifang Lyu, **James Alvey**, Noemi Anau Montel, Mauro Pieroni, and Christoph Weniger, [*Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets*](http://arxiv.org/abs/2510.13997v1), arXiv:2510.13997 [astro-ph.IM]
 - **Richard Dyer**, and Christopher J. Moore, [*Quasinormal modes from numerical relativity with Bayesian inference*](http://arxiv.org/abs/2510.11783v1), arXiv:2510.11783 [gr-qc]
-- **David Yallup**, Metha Prathaban, **James Alvey**, and **Will Handley**, [*Parallel Nested Slice Sampling for Gravitational Wave Parameter Estimation*](http://arxiv.org/abs/2509.24949v1), arXiv:2509.24949 [astro-ph.IM]
-- Metha Prathaban, **David Yallup**, **James Alvey**, Ming Yang, Will Templeton, and **Will Handley**, [*Gravitational-wave inference at GPU speed: A bilby-like nested sampling kernel within blackjax-ns*](http://arxiv.org/abs/2509.04336v1), arXiv:2509.04336 [gr-qc]
+- **David Yallup**, **Metha Prathaban**, **James Alvey**, and **Will Handley**, [*Parallel Nested Slice Sampling for Gravitational Wave Parameter Estimation*](http://arxiv.org/abs/2509.24949v1), arXiv:2509.24949 [astro-ph.IM]
+- **Metha Prathaban**, **David Yallup**, **James Alvey**, Ming Yang, Will Templeton, and **Will Handley**, [*Gravitational-wave inference at GPU speed: A bilby-like nested sampling kernel within blackjax-ns*](http://arxiv.org/abs/2509.04336v1), arXiv:2509.04336 [gr-qc]
 - Sinah Legner, **Will Handley**, Will Barker, and Adam Ormondroyd, [*Alleviating the Hubble tension with Torsion Condensation (TorC)*](http://arxiv.org/abs/2507.09228v4), arXiv:2507.09228 [astro-ph.CO]
 - Diego Blas, Adrien Bourgoin, Joshua F. Foster, Aurelien Hees, Miriam Herrero-Valea, **Alexander C. Jenkins**, and Xiao Xue, [*Binary systems as gravitational wave detectors*](http://arxiv.org/abs/2506.11802v1), arXiv:2506.11802 [gr-qc]
 - Philippa S. Cole, **James Alvey**, Lorenzo Speri, Christoph Weniger, Uddipta Bhardwaj, Davide Gerosa, and Gianfranco Bertone, [*Sequential simulation-based inference for extreme mass ratio inspirals*](http://arxiv.org/abs/2505.16795v1), arXiv:2505.16795 [gr-qc]
@@ -47,7 +47,7 @@ A selection of recent publications by CamGW members.
 ## 2024
 
 - Noemi Anau Montel, **James Alvey**, and Christoph Weniger, [*Tests for model misspecification in simulation-based inference: from local distortions to global model checks*](http://arxiv.org/abs/2412.15100v2), arXiv:2412.15100 [astro-ph.IM]
-- Metha Prathaban, Harry Bevins, and **Will Handley**, [*Accelerated nested sampling with posterior repartitioning and $β$-flows for gravitational waves*](http://arxiv.org/abs/2411.17663v2), arXiv:2411.17663 [astro-ph.IM]
+- **Metha Prathaban**, Harry Bevins, and **Will Handley**, [*Accelerated nested sampling with posterior repartitioning and $β$-flows for gravitational waves*](http://arxiv.org/abs/2411.17663v2), arXiv:2411.17663 [astro-ph.IM]
 - Igor Andreoni *et al.* (inc. **Nikhil Sarin**), [*Rubin ToO 2024: Envisioning the Vera C. Rubin Observatory LSST Target of Opportunity program*](http://arxiv.org/abs/2411.04793v1), arXiv:2411.04793 [astro-ph.IM]
 - **Richard Dyer**, and Christopher J. Moore, [*Black-Hole Cartography*](https://doi.org/10.1103/PhysRevD.111.024002), arXiv:2410.13935 [gr-qc]
 - Spencer J. Magnall, Simon R. Goode, **Nikhil Sarin**, and Paul D. Lasky, [*Directly inferring cosmology and the neutron-star equation of state from gravitational-wave mergers*](http://arxiv.org/abs/2410.07754v1), arXiv:2410.07754 [gr-qc]
@@ -55,7 +55,7 @@ A selection of recent publications by CamGW members.
 - **James Alvey**, Uddipta Bhardwaj, Valerie Domcke, Mauro Pieroni, and Christoph Weniger, [*Leveraging Time-Dependent Instrumental Noise for LISA SGWB Analysis*](http://arxiv.org/abs/2408.00832v2), arXiv:2408.00832 [gr-qc]
 - Gayathri Raman *et al.* (inc. **N. Sarin**), [*Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run*](http://arxiv.org/abs/2407.12867v2), arXiv:2407.12867 [astro-ph.HE]
 - Lorenz Zwick, Deniz Soyuer, Daniel J. D'Orazio, David O'Neill, Andrea Derdzinski, Prasenjit Saha, Diego Blas, **Alexander C. Jenkins**, and Luke Zoltan Kelley, [*Bridging the micro-Hz gravitational wave gap via Doppler tracking with the Uranus Orbiter and Probe Mission: Massive black hole binaries, early universe signals and ultra-light dark matter*](http://arxiv.org/abs/2406.02306v3), arXiv:2406.02306 [astro-ph.HE]
-- Metha Prathaban, and **Will Handley**, [*Costless correction of chain based nested sampling parameter estimation in gravitational wave data and beyond*](http://arxiv.org/abs/2404.16428v2), arXiv:2404.16428 [astro-ph.IM]
+- **Metha Prathaban**, and **Will Handley**, [*Costless correction of chain based nested sampling parameter estimation in gravitational wave data and beyond*](http://arxiv.org/abs/2404.16428v2), arXiv:2404.16428 [astro-ph.IM]
 
 ##### LVK Collaboration Papers
 - The LIGO Scientific Collaboration, the Virgo Collaboration, the KAGRA Collaboration (inc. **N. Sarin**), [*Search for gravitational waves emitted from SN 2023ixf*](https://doi.org/10.3847/1538-4357/adc681), arXiv:2410.16565 [astro-ph.HE]
