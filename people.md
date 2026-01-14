@@ -72,6 +72,15 @@
 - **Email:** [richard.dyer@ast.cam.ac.uk](mailto:richard.dyer@ast.cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/metha-prathaban.jpg"
+     alt="Metha Prathaban"
+     style="float: left; margin: 20px 40px 10px 0; width: 140px; height: 140px">
+### Metha Prathaban
+- **Department:** Cavendish and KICC
+- **Research Interests:** Bayesian inference; GW parameter estimation; next-generation data; GPUs; machine learning
+- **Email:** [myp23@cam.ac.uk](mailto:myp23@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/seppe-staelens.jpg"
      alt="Seppe Staelens"
      style="float: left; margin: 20px 40px 40px 0; width: 140px; height: 140px">
