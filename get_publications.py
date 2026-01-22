@@ -77,7 +77,8 @@ for year in ['2026', '2025', '2024', '2023']:
         except AttributeError:
             link = entry.id
 
-        if 'Collaboration' in authors[0]:
+        if any(collab in authors[0]
+               for collab in ['LIGO', 'Virgo', 'KAGRA', 'LVK']):
             collaborations = authors[0]
             for author in authors[1:]:
                 if 'Collaboration' in author:
