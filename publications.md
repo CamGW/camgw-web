@@ -9,9 +9,11 @@ A selection of recent publications by CamGW members.
 
 ## 2025
 
+- The Simons Observatory Collaboration *et al.* (inc. **A. Challinor**), [*The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes*](http://arxiv.org/abs/2512.15833v1), arXiv:2512.15833 [astro-ph.CO]
 - **Nikhil Sarin** *et al.*, [*GRBs and Relativistic Transients in the 2040s*](http://arxiv.org/abs/2512.15010v1), arXiv:2512.15010 [astro-ph.HE]
 - Samaya Nissanke *et al.* (inc. **Nikhil Sarin**), [*Multi-messenger and time-domain astronomy in the 2040s*](http://arxiv.org/abs/2512.14546v1), arXiv:2512.14546 [astro-ph.IM]
 - Thibault Damour, Tamanna Jain, and **Ulrich Sperhake**, [*Gravitational scattering of solitonic boson stars: Analytics vs Numerics*](http://arxiv.org/abs/2512.00945v1), arXiv:2512.00945 [gr-qc]
+- Emilie Hertig *et al.* (inc. **Anthony Challinor**), [*The Atacama Cosmology Telescope: $B$-mode delensing with DR6 data and external tracers of large-scale structure*](http://arxiv.org/abs/2511.21949v1), arXiv:2511.21949 [astro-ph.CO]
 - Noam Mouelle, Jeremiah Mitchell, Valerie Gibson, and **Ulrich Schneider**, [*Wavefront Curvature and Transverse Atomic Motion in Time-Resolved Atom Interferometry: Impact and Mitigation*](http://arxiv.org/abs/2510.26739v2), arXiv:2510.26739 [physics.atom-ph]
 - Eun-jin Shin, Matthew C. Smith, **Debora Sijacki**, Martin A. Bourne, and Sophie Koudmani, [*The MandelZoom project II: the impact of stellar feedback on black hole accretion through an $α$-disc in dwarf galaxies with a resolved interstellar medium*](http://arxiv.org/abs/2510.23548v1), arXiv:2510.23548 [astro-ph.GA]
 - Huifang Lyu, **James Alvey**, Noemi Anau Montel, Mauro Pieroni, and Christoph Weniger, [*Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets*](http://arxiv.org/abs/2510.13997v1), arXiv:2510.13997 [astro-ph.IM]
@@ -71,6 +73,7 @@ A selection of recent publications by CamGW members.
 - Gayathri Raman *et al.* (inc. **N. Sarin**), [*Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run*](http://arxiv.org/abs/2407.12867v2), arXiv:2407.12867 [astro-ph.HE]
 - Tamara Evstafyeva, **Ulrich Sperhake**, Isobel Romero-Shaw, and Michalis Agathos, [*Gravitational-Wave Data Analysis with High-Precision Numerical Relativity Simulations of Boson Star mergers*](https://doi.org/10.1103/PhysRevLett.133.131401), arXiv:2406.02715 [gr-qc]
 - Lorenz Zwick, Deniz Soyuer, Daniel J. D'Orazio, David O'Neill, Andrea Derdzinski, Prasenjit Saha, Diego Blas, **Alexander C. Jenkins**, and Luke Zoltan Kelley, [*Bridging the micro-Hz gravitational wave gap via Doppler tracking with the Uranus Orbiter and Probe Mission: Massive black hole binaries, early universe signals and ultra-light dark matter*](http://arxiv.org/abs/2406.02306v3), arXiv:2406.02306 [astro-ph.HE]
+- Emilie Hertig, Kevin Wolz, Toshiya Namikawa, Antón Baleato Lizancos, Susanna Azzoni, and **Anthony Challinor**, [*The Simons Observatory: Combining delensing and foreground cleaning for improved constraints on inflation*](http://arxiv.org/abs/2405.13201v1), arXiv:2405.13201 [astro-ph.CO]
 - **Metha Prathaban**, and **Will Handley**, [*Costless correction of chain based nested sampling parameter estimation in gravitational wave data and beyond*](http://arxiv.org/abs/2404.16428v2), arXiv:2404.16428 [astro-ph.IM]
 
 ##### LVK Collaboration Papers
@@ -83,6 +86,7 @@ A selection of recent publications by CamGW members.
 
 - Nikolaos Kouvatsos, **Alexander C. Jenkins**, Arianna I. Renzini, Joseph D. Romano, and Mairi Sakellariadou, [*Unbiased estimation of gravitational-wave anisotropies from noisy data*](https://doi.org/10.1103/PhysRevD.109.103535), arXiv:2312.09110 [astro-ph.CO]
 - Sophie Koudmani, Rachel S. Somerville, **Debora Sijacki**, Martin A. Bourne, Yan-Fei Jiang, and Kasar Profit, [*A unified accretion disc model for supermassive black holes in galaxy formation simulations: method and implementation*](https://doi.org/10.1093/mnras/stae1422), arXiv:2312.08428 [astro-ph.GA]
+- T. Namikawa *et al.* (inc. **A. Challinor**), [*LiteBIRD Science Goals and Forecasts: Improving Sensitivity to Inflationary Gravitational Waves with Multitracer Delensing*](https://doi.org/10.1088/1475-7516/2024/06/010), arXiv:2312.05194 [astro-ph.CO]
 - Martin A. Bourne, Davide Fiacconi, **Debora Sijacki**, Joanna M. Piotrowska, and Sophie Koudmani, [*Dynamics and spin alignment in massive, gravito-turbulent circumbinary discs around supermassive black hole binaries*](https://doi.org/10.1093/mnras/stae2143), arXiv:2311.17144 [astro-ph.HE]
 - **Nikhil Sarin**, **Hiranya V. Peiris**, Daniel J. Mortlock, Justin Alsing, Samaya M. Nissanke, and Stephen M. Feeney, [*Measuring the nuclear equation of state with neutron star-black hole mergers*](http://arxiv.org/abs/2311.05689v2), arXiv:2311.05689 [gr-qc]
 - LISA Consortium Waveform Working Group *et al.* (inc. **Ulrich Sperhake**), [*Waveform Modelling for the Laser Interferometer Space Antenna*](http://arxiv.org/abs/2311.01300v2), arXiv:2311.01300 [gr-qc]
