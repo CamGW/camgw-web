@@ -31,9 +31,18 @@
 
 ## Faculty
 
+<img src="assets/people/anthony-challinor.png"
+     alt="Anthony Challinor"
+     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+### [Anthony Challinor](https://www.kicc.cam.ac.uk/directory/adc1000)
+- **Department:** IoA, DAMTP and KICC
+- **Research Interests:** CMB and large-scale structure cosmology; primordial gravitational waves
+- **Email:** [a.d.challinor@ast.cam.ac.uk](mailto:a.d.challinor@ast.cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/will-handley.jpg"
      alt="Will Handley"
-     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
 ### [Will Handley](https://www.handley-lab.co.uk)
 - **Department:** IoA and KICC
 - **Research Interests:** Bayesian machine learning and nested sampling; early universe cosmology; dark matter constraints (GAMBIT); cosmic dawn detection (REACH); gravitational wave data analysis
