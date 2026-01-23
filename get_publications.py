@@ -94,7 +94,7 @@ for year in ['2026', '2025', '2024', '2023']:
             authors = str(collaborations
                           + ' (inc. ' + ', '.join(incauthors) + ')')
             collaboration_papers.append(
-                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
                     entry.arxiv_primary_category['term']))
 
@@ -114,7 +114,7 @@ for year in ['2026', '2025', '2024', '2023']:
                 authors = str(authors[0]
                               + ' (inc. ' + ', '.join(incauthors) + ')')
             collaboration_papers.append(
-                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
                     entry.arxiv_primary_category['term']))
 
@@ -126,7 +126,7 @@ for year in ['2026', '2025', '2024', '2023']:
                 authors[-1] = 'and ' + authors[-1]
             authors = ', '.join(authors)
             papers.append(
-                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
                     entry.arxiv_primary_category['term']))
 
@@ -146,16 +146,18 @@ for year in ['2026', '2025', '2024', '2023']:
                 authors = str(authors[0]
                               + ' (inc. ' + ', '.join(incauthors) + ')')
             papers.append(
-                '- {0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
                     entry.arxiv_primary_category['term']))
 
-    for paper in papers: file.write(paper)
+    for i, paper in enumerate(papers):
+        file.write('{}. '.format(i+1) + paper)
     file.write('\n')
 
     if len(collaboration_papers) > 0:
         file.write('##### LVK Collaboration Papers\n')
-        for paper in collaboration_papers: file.write(paper)
+        for i, paper in enumerate(collaboration_papers):
+            file.write('{}. '.format(i+1) + paper)
         file.write('\n')
 
 file.write('[Back to Home](index.html)\n')
