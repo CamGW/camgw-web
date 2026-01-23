@@ -123,6 +123,15 @@
 - **Email:** [emh83@ast.cam.ac.uk](mailto:emh83@ast.cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/antti-rantala.jpg"
+     alt="Antti Rantala"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Antti Rantala](https://www.kicc.cam.ac.uk/staff/dr-antti-rantala)
+- **Department:** IoA and KICC
+- **Research Interests:** Supermassive and intermediate-mass black holes; nuclear stellar clusters and globular clusters; gravitational waves; stellar and galactic dynamics; N-body simulations; high-performance computing
+- **Email:** [ajr249@cam.ac.uk](mailto:ajr249@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/david-yallup.jpg"
      alt="David Yallup"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
