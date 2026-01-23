@@ -9,11 +9,11 @@ A selection of recent publications by CamGW members.
 
 ## 2025
 
-- The Simons Observatory Collaboration *et al.* (inc. **A. Challinor**), [*The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes*](http://arxiv.org/abs/2512.15833v1), arXiv:2512.15833 [astro-ph.CO]
+- The Simons Observatory Collaboration *et al.* (inc. **A. Challinor**, and **E. Hertig**), [*The Simons Observatory: forecasted constraints on primordial gravitational waves with the expanded array of Small Aperture Telescopes*](http://arxiv.org/abs/2512.15833v1), arXiv:2512.15833 [astro-ph.CO]
 - **Nikhil Sarin** *et al.*, [*GRBs and Relativistic Transients in the 2040s*](http://arxiv.org/abs/2512.15010v1), arXiv:2512.15010 [astro-ph.HE]
 - Samaya Nissanke *et al.* (inc. **Nikhil Sarin**), [*Multi-messenger and time-domain astronomy in the 2040s*](http://arxiv.org/abs/2512.14546v1), arXiv:2512.14546 [astro-ph.IM]
 - Thibault Damour, Tamanna Jain, and **Ulrich Sperhake**, [*Gravitational scattering of solitonic boson stars: Analytics vs Numerics*](http://arxiv.org/abs/2512.00945v1), arXiv:2512.00945 [gr-qc]
-- Emilie Hertig *et al.* (inc. **Anthony Challinor**), [*The Atacama Cosmology Telescope: $B$-mode delensing with DR6 data and external tracers of large-scale structure*](http://arxiv.org/abs/2511.21949v1), arXiv:2511.21949 [astro-ph.CO]
+- **Emilie Hertig** *et al.* (inc. **Anthony Challinor**), [*The Atacama Cosmology Telescope: $B$-mode delensing with DR6 data and external tracers of large-scale structure*](http://arxiv.org/abs/2511.21949v1), arXiv:2511.21949 [astro-ph.CO]
 - Noam Mouelle, Jeremiah Mitchell, Valerie Gibson, and **Ulrich Schneider**, [*Wavefront Curvature and Transverse Atomic Motion in Time-Resolved Atom Interferometry: Impact and Mitigation*](http://arxiv.org/abs/2510.26739v2), arXiv:2510.26739 [physics.atom-ph]
 - Eun-jin Shin, Matthew C. Smith, **Debora Sijacki**, Martin A. Bourne, and Sophie Koudmani, [*The MandelZoom project II: the impact of stellar feedback on black hole accretion through an $α$-disc in dwarf galaxies with a resolved interstellar medium*](http://arxiv.org/abs/2510.23548v1), arXiv:2510.23548 [astro-ph.GA]
 - Huifang Lyu, **James Alvey**, Noemi Anau Montel, Mauro Pieroni, and Christoph Weniger, [*Dynamic SBI: Round-free Sequential Simulation-Based Inference with Adaptive Datasets*](http://arxiv.org/abs/2510.13997v1), arXiv:2510.13997 [astro-ph.IM]
@@ -34,6 +34,7 @@ A selection of recent publications by CamGW members.
 - Joshua W. Foster, Diego Blas, Adrien Bourgoin, Aurelien Hees, Míriam Herrero-Valea, **Alexander C. Jenkins**, and Xiao Xue, [*Discovering $μ$Hz gravitational waves and ultra-light dark matter with binary resonances*](http://arxiv.org/abs/2504.15334v1), arXiv:2504.15334 [astro-ph.CO]
 - C. F. A. Baynham *et al.* (inc. **U. Schneider**), [*A Prototype Atom Interferometer to Detect Dark Matter and Gravitational Waves*](http://arxiv.org/abs/2504.09158v2), arXiv:2504.09158 [hep-ex]
 - Adrian Abac *et al.* (inc. **Alexander C. Jenkins**), [*The Science of the Einstein Telescope*](http://arxiv.org/abs/2503.12263v2), arXiv:2503.12263 [gr-qc]
+- Carlos Hervías-Caimapo *et al.* (inc. **Emilie Hertig**), [*The Simons Observatory: Validation of reconstructed power spectra from simulated filtered maps for the Small Aperture Telescope survey*](https://doi.org/10.1088/1475-7516/2025/06/055), arXiv:2502.00946 [astro-ph.CO]
 - Nancy Aggarwal *et al.* (inc. **Fernando Quevedo**), [*Challenges and Opportunities of Gravitational Wave Searches above 10 kHz*](http://arxiv.org/abs/2501.11723v1), arXiv:2501.11723 [gr-qc]
 
 ##### LVK Collaboration Papers
@@ -73,7 +74,7 @@ A selection of recent publications by CamGW members.
 - Gayathri Raman *et al.* (inc. **N. Sarin**), [*Swift-BAT GUANO follow-up of gravitational-wave triggers in the third LIGO-Virgo-KAGRA observing run*](http://arxiv.org/abs/2407.12867v2), arXiv:2407.12867 [astro-ph.HE]
 - Tamara Evstafyeva, **Ulrich Sperhake**, Isobel Romero-Shaw, and Michalis Agathos, [*Gravitational-Wave Data Analysis with High-Precision Numerical Relativity Simulations of Boson Star mergers*](https://doi.org/10.1103/PhysRevLett.133.131401), arXiv:2406.02715 [gr-qc]
 - Lorenz Zwick, Deniz Soyuer, Daniel J. D'Orazio, David O'Neill, Andrea Derdzinski, Prasenjit Saha, Diego Blas, **Alexander C. Jenkins**, and Luke Zoltan Kelley, [*Bridging the micro-Hz gravitational wave gap via Doppler tracking with the Uranus Orbiter and Probe Mission: Massive black hole binaries, early universe signals and ultra-light dark matter*](http://arxiv.org/abs/2406.02306v3), arXiv:2406.02306 [astro-ph.HE]
-- Emilie Hertig, Kevin Wolz, Toshiya Namikawa, Antón Baleato Lizancos, Susanna Azzoni, and **Anthony Challinor**, [*The Simons Observatory: Combining delensing and foreground cleaning for improved constraints on inflation*](http://arxiv.org/abs/2405.13201v1), arXiv:2405.13201 [astro-ph.CO]
+- **Emilie Hertig**, Kevin Wolz, Toshiya Namikawa, Antón Baleato Lizancos, Susanna Azzoni, and **Anthony Challinor**, [*The Simons Observatory: Combining delensing and foreground cleaning for improved constraints on inflation*](http://arxiv.org/abs/2405.13201v1), arXiv:2405.13201 [astro-ph.CO]
 - **Metha Prathaban**, and **Will Handley**, [*Costless correction of chain based nested sampling parameter estimation in gravitational wave data and beyond*](http://arxiv.org/abs/2404.16428v2), arXiv:2404.16428 [astro-ph.IM]
 
 ##### LVK Collaboration Papers

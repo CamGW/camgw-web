@@ -114,6 +114,15 @@
 - **Email:** [pc464@cam.ac.uk](mailto:pc464@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/emilie-hertig.png"
+     alt="Emilie Hertig"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Emilie Hertig](https://www.kicc.cam.ac.uk/staff/emilie-hertig)
+- **Department:** IoA and KICC
+- **Research Interests:** Early-universe cosmology, inflationary physics, CMB delensing, false vacuum decay, gravitational waves, Bayesian inference, machine learning
+- **Email:** [emh83@ast.cam.ac.uk](mailto:emh83@ast.cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/david-yallup.jpg"
      alt="David Yallup"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
