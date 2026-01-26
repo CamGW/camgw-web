@@ -180,6 +180,15 @@
 - **Email:** [gam54@cam.ac.uk](mailto:gam54@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/dily-duan-yi-ong.webp"
+     alt="Dily Duan Yi Ong"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Dily Duan Yi Ong](https://dilyong.github.io/)
+- **Department:** Cavendish and KICC
+- **Research Interests:** Cosmology, astrophysics, Bayesian statistics, machine learning, model comparison, tension quantification, nested sampling
+- **Email:** [dlo26@cam.ac.uk](mailto:dlo26@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/metha-prathaban.jpg"
      alt="Metha Prathaban"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
@@ -199,6 +208,15 @@
 <div style="clear: both;"></div>
 
 ## Alumni
+
+<img src="assets/people/michalis-agathos.jpg"
+     alt="Michalis Agathos"
+     style="float: left; margin: 10px 40px 40px 0; width: 140px; height: 140px">
+### [Michalis Agathos](https://www.qmul.ac.uk/maths/profiles/agathosm.html)
+- **Department:** formerly KICC and DAMTP (now faculty at QMUL)
+- **Research Interests:** Gravitational-wave theory, source modelling, and data analysis; tests of general relativity; neutron star equation of state
+- **Email:** [m.agathos@qmul.ac.uk](mailto:m.agathos@qmul.ac.uk)
+<div style="clear: both;"></div>
 
 Former members of CamGW who have moved on to other positions.
 
