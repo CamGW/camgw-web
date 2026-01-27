@@ -7,6 +7,7 @@ topics = ['gravitational waves',
           'GWs',
           'GW',
           'LIGO',
+          'LVK',
           'LISA',
           'pulsar timing arrays',
           'pulsar timing array',
@@ -65,7 +66,7 @@ for year in ['2026', '2025', '2024', '2023']:
                              key=lambda x: x[1]))
 
     papers = []
-    collaboration_papers = []
+    lvk_papers = []
 
     for entry in entries:
         authors = [author['name'] for author in entry.authors]
@@ -77,46 +78,41 @@ for year in ['2026', '2025', '2024', '2023']:
         except AttributeError:
             link = entry.id
 
-        if any(collab in authors[0]
-               for collab in ['LIGO', 'Virgo', 'KAGRA', 'LVK']):
-            collaborations = authors[0]
-            for author in authors[1:]:
+        if 'Collaboration' in ''.join(authors):
+            collaborations = list()
+            for author in authors:
                 if 'Collaboration' in author:
-                    collaborations = collaborations + ', ' + author
-                else:
-                    break
+                    collaborations.append(author)
+            if len(collaborations) > 1:
+                collaborations[-1] = 'and ' + collaborations[-1]
+            if len(collaborations) == 2:
+                collaborations = ' '.join(collaborations)
+            else:
+                collaborations = ', '.join(collaborations)
             incauthors = list()
             for author in authors:
                 if author in allnames:
                     incauthors.append('**' + author + '**')
             if len(incauthors) > 1:
                 incauthors[-1] = 'and ' + incauthors[-1]
-            authors = str(collaborations
-                          + ' (inc. ' + ', '.join(incauthors) + ')')
-            collaboration_papers.append(
-                '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
-                    authors, entry.title, link, entry.id.split('/')[-1][:-2],
-                    entry.arxiv_primary_category['term']))
-
-        elif 'LIGO' in ', '.join(authors):
-            incauthors = list()
-            for author in authors[1:]:
-                if author in allnames:
-                    incauthors.append('**' + author + '**')
-            if len(incauthors) > 1:
-                incauthors[-1] = 'and ' + incauthors[-1]
-            if authors[0] in allnames:
-                authors[0] = '**' + authors[0] + '**'
-            authors[0] = authors[0] + ' *et al.*'
-            if len(incauthors) == 0:
-                authors = str(authors[0])
+            if len(incauthors) == 2:
+                incauthors = ' (inc. ' + ' '.join(incauthors) + ')'
             else:
-                authors = str(authors[0]
-                              + ' (inc. ' + ', '.join(incauthors) + ')')
-            collaboration_papers.append(
-                '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
-                    authors, entry.title, link, entry.id.split('/')[-1][:-2],
-                    entry.arxiv_primary_category['term']))
+                incauthors = ' (inc. ' + ', '.join(incauthors) + ')'
+            authors = str(collaborations + incauthors)
+            if any(collab in collaborations for collab in
+                   ['LIGO', 'Virgo', 'KAGRA', 'LVK']):
+                lvk_papers.append(
+                    '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                        authors, entry.title, link,
+                        entry.id.split('/')[-1][:-2],
+                        entry.arxiv_primary_category['term']))
+            else:
+                papers.append(
+                    '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
+                        authors, entry.title, link,
+                        entry.id.split('/')[-1][:-2],
+                        entry.arxiv_primary_category['term']))
 
         elif len(authors) <= 10:
             for author in authors:
@@ -124,7 +120,10 @@ for year in ['2026', '2025', '2024', '2023']:
                     authors[authors.index(author)] = '**' + author + '**'
             if len(authors) > 1:
                 authors[-1] = 'and ' + authors[-1]
-            authors = ', '.join(authors)
+            if len(authors) == 2:
+                authors = ' '.join(authors)
+            else:
+                authors = ', '.join(authors)
             papers.append(
                 '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
@@ -135,16 +134,19 @@ for year in ['2026', '2025', '2024', '2023']:
             for author in authors[1:]:
                 if author in allnames:
                     incauthors.append('**' + author + '**')
-            if len(incauthors) > 1:
-                incauthors[-1] = 'and ' + incauthors[-1]
             if authors[0] in allnames:
                 authors[0] = '**' + authors[0] + '**'
             authors[0] = authors[0] + ' *et al.*'
             if len(incauthors) == 0:
                 authors = str(authors[0])
             else:
-                authors = str(authors[0]
-                              + ' (inc. ' + ', '.join(incauthors) + ')')
+                if len(incauthors) > 1:
+                    incauthors[-1] = 'and ' + incauthors[-1]
+                if len(incauthors) == 2:
+                    incauthors = ' (inc. ' + ' '.join(incauthors) + ')'
+                else:
+                    incauthors = ' (inc. ' + ', '.join(incauthors) + ')'
+                authors = str(authors[0] + incauthors)
             papers.append(
                 '{0}, [*{1}*]({2}), arXiv:{3} [{4}]\n'.format(
                     authors, entry.title, link, entry.id.split('/')[-1][:-2],
@@ -154,9 +156,9 @@ for year in ['2026', '2025', '2024', '2023']:
         file.write('{}. '.format(i+1) + paper)
     file.write('\n')
 
-    if len(collaboration_papers) > 0:
+    if len(lvk_papers) > 0:
         file.write('##### LVK Collaboration Papers\n')
-        for i, paper in enumerate(collaboration_papers):
+        for i, paper in enumerate(lvk_papers):
             file.write('{}. '.format(i+1) + paper)
         file.write('\n')
 
