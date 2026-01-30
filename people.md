@@ -31,9 +31,18 @@
 
 ## Faculty
 
+<img src="assets/people/irena-borzym.png"
+     alt="Irena Borzym"
+     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+### [Irena Borzym](https://www.caths.cam.ac.uk/directory/ms-irena-borzym)
+- **Department:** DAMTP
+- **Research Interests:** Classical GW, black hole mergers, twistor methods
+- **Email:** [immb100@cam.ac.uk](mailto:immb100@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/anthony-challinor.png"
      alt="Anthony Challinor"
-     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
 ### [Anthony Challinor](https://www.kicc.cam.ac.uk/directory/adc1000)
 - **Department:** IoA, DAMTP and KICC
 - **Research Interests:** CMB and large-scale structure cosmology; primordial gravitational waves
@@ -114,6 +123,15 @@
 - **Email:** [pc464@cam.ac.uk](mailto:pc464@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/adrian-ka-wai-chung.png"
+     alt="Adrian Ka-Wai Chung"
+     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+### [Adrian Ka-Wai Chung](https://www.damtp.cam.ac.uk/person/kwc43)
+- **Department:** DAMTP
+- **Research Interests:** Gravitational waves, black hole ringdown, tests of general relativity, cosmology
+- **Email:** [kwc43@cam.ac.uk](mailto:kwc43@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/emilie-hertig.png"
      alt="Emilie Hertig"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
@@ -189,6 +207,15 @@
 - **Email:** [gam54@cam.ac.uk](mailto:gam54@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/joan-nunez-corbacho.jpg"
+     alt="Joan Núñez Corbacho"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### Joan Núñez Corbacho
+- **Department:** DAMTP
+- **Research Interests:** Numerical relativity, critical phenomena, black holes, boson stars
+- **Email:** [jn498@cam.ac.uk](mailto:jn498@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/dily-duan-yi-ong.webp"
      alt="Dily Duan Yi Ong"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
@@ -207,6 +234,15 @@
 - **Email:** [myp23@cam.ac.uk](mailto:myp23@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/mario-ramos-hamud.png"
+     alt="Mario Ramos Hamud"
+     style="float: left; margin: 25px 40px 40px 0; width: 140px; height: 140px">
+### [Mario Ramos Hamud](https://www.damtp.cam.ac.uk/person/mr895)
+- **Department:** DAMTP
+- **Research Interests:** String theory and cosmology
+- **Email:** [mr895@cam.ac.uk](mailto:mr895@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/seppe-staelens.jpg"
      alt="Seppe Staelens"
      style="float: left; margin: 25px 40px 40px 0; width: 140px; height: 140px">
@@ -218,6 +254,8 @@
 
 ## Alumni
 
+Former members of CamGW who have moved on to other positions.
+
 <img src="assets/people/michalis-agathos.jpg"
      alt="Michalis Agathos"
      style="float: left; margin: 10px 40px 40px 0; width: 140px; height: 140px">
@@ -226,7 +264,5 @@
 - **Research Interests:** Gravitational-wave theory, source modelling, and data analysis; tests of general relativity; neutron star equation of state
 - **Email:** [m.agathos@qmul.ac.uk](mailto:m.agathos@qmul.ac.uk)
 <div style="clear: both;"></div>
-
-Former members of CamGW who have moved on to other positions.
 
 [Back to Home](index.html)
