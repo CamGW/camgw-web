@@ -36,7 +36,7 @@
      style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
 ### [Irena Borzym](https://www.caths.cam.ac.uk/directory/ms-irena-borzym)
 - **Department:** DAMTP
-- **Research Interests:** Classical GW, black hole mergers, twistor methods
+- **Research Interests:** Classical GR, black hole mergers, twistor methods
 - **Email:** [immb100@cam.ac.uk](mailto:immb100@cam.ac.uk)
 <div style="clear: both;"></div>
 
@@ -139,6 +139,15 @@
 - **Department:** IoA and KICC
 - **Research Interests:** Early-universe cosmology, inflationary physics, CMB delensing, false vacuum decay, gravitational waves, Bayesian inference, machine learning
 - **Email:** [emh83@ast.cam.ac.uk](mailto:emh83@ast.cam.ac.uk)
+<div style="clear: both;"></div>
+
+<img src="assets/people/lisa-kelsey.jpg"
+     alt="Lisa Kelsey"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Lisa Kelsey](https://supernovalisa.wordpress.com/)
+- **Department:** IoA and KICC
+- **Research Interests:** Supernovae, cosmology, optical follow-up of gravitational-wave events, citizen science
+- **Email:** [lgk29@cam.ac.uk](mailto:lgk29@cam.ac.uk)
 <div style="clear: both;"></div>
 
 <img src="assets/people/antti-rantala.jpg"
