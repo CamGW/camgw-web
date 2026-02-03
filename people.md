@@ -123,6 +123,15 @@
 - **Email:** [pc464@cam.ac.uk](mailto:pc464@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/daniela-cors-agullo.png"
+     alt="Daniela Cors Agulló"
+     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+### Daniela Cors Agulló
+- **Department:** DAMTP
+- **Research Interests:** Numerical relativity, compact objects, critical phenomena, gravitational waves
+- **Email:** [dc889@cam.ac.uk](mailto:dc889@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/adrian-ka-wai-chung.png"
      alt="Adrian Ka-Wai Chung"
      style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
