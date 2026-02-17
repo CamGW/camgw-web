@@ -2,9 +2,11 @@
 
 ## Upcoming Meetings
 
-### Lent Term 2025
+### 5 March 2026
 
-Details TBC. Watch this space!
+Our next meeting will take place **1pm–3.30pm** on **Thursday 5 March** in the Hoyle Lecture Theatre at the IoA.
+We’re delighted to be joined by Dr Katy Clough (QMUL), who will give a keynote talk on *“Probing beyond GR and the Standard Model in the strong gravity regime”*.
+Watch this space for more details.
 
 ## Past Meetings
 
