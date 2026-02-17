@@ -4,14 +4,15 @@ A selection of recent publications by CamGW members.
 
 ## 2026
 
-1. Sumedha Biswas, Andrew Levan, Peter G. Jonker, Kendall Ackley, Gregory Ashton, and **Nikhil Sarin**, [*Identifying Host Galaxies of Binary Black Hole Mergers with Next-Generation Gravitational Wave Detector Networks*](http://arxiv.org/abs/2602.08459v1), arXiv:2602.08459 [astro-ph.HE]
-2. Mallika R. Sinha, Teagan A. Clarke, Qifang Zhang, **Nikhil Sarin**, Eric Thrane, and Paul D. Lasky, [*Searching for gravitational waves from compact binary mergers powering long gamma-ray bursts during LIGO-Virgo-KAGRA's O3 run*](http://arxiv.org/abs/2602.05169v1), arXiv:2602.05169 [astro-ph.HE]
-3. **Nikhil Sarin** *et al.* (inc. **Lisa Kelsey**), [*Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology*](http://arxiv.org/abs/2602.02677v1), arXiv:2602.02677 [astro-ph.HE]
-4. **Metha Prathaban**, Charlie Hoy, and Michael J. Williams, [*Leveraging rapid parameter estimates for efficient gravitational-wave Bayesian inference via posterior repartitioning*](http://arxiv.org/abs/2601.21630v1), arXiv:2601.21630 [gr-qc]
-5. Phil Wiseman *et al.* (inc. **Lisa Kelsey**), [*Still Accelerating: Type Ia supernova cosmology is robust to host galaxy age evolution*](http://arxiv.org/abs/2601.13785v1), arXiv:2601.13785 [astro-ph.CO]
-6. Luca Brunelli, Filippo Revello, and **Gonzalo Villa**, [*The gravitational wave landscape of cosmic string networks with varying tension*](http://arxiv.org/abs/2601.10790v1), arXiv:2601.10790 [hep-th]
-7. Eleni Bagui, Sébastien Clesse, Federico De Lillo, **Alexander C. Jenkins**, and Mairi Sakellariadou, [*Popcorn in the sky: Identifying primordial black holes in the gravitational-wave background*](http://arxiv.org/abs/2601.07774v1), arXiv:2601.07774 [astro-ph.CO]
-8. Angelo Ricciardone *et al.* (inc. **Alexander C. Jenkins**), [*Probing Cosmic Expansion and Early Universe with Einstein Telescope*](http://arxiv.org/abs/2601.06017v1), arXiv:2601.06017 [astro-ph.CO]
+1. **Adrian Ka-Wai Chung**, [*Spacetime of rotating black holes surrounded by massive scalar charges*](http://arxiv.org/abs/2602.10462v1), arXiv:2602.10462 [gr-qc]
+2. Sumedha Biswas, Andrew Levan, Peter G. Jonker, Kendall Ackley, Gregory Ashton, and **Nikhil Sarin**, [*Identifying Host Galaxies of Binary Black Hole Mergers with Next-Generation Gravitational Wave Detector Networks*](http://arxiv.org/abs/2602.08459v1), arXiv:2602.08459 [astro-ph.HE]
+3. Mallika R. Sinha, Teagan A. Clarke, Qifang Zhang, **Nikhil Sarin**, Eric Thrane, and Paul D. Lasky, [*Searching for gravitational waves from compact binary mergers powering long gamma-ray bursts during LIGO-Virgo-KAGRA's O3 run*](http://arxiv.org/abs/2602.05169v1), arXiv:2602.05169 [astro-ph.HE]
+4. **Nikhil Sarin** *et al.* (inc. **Lisa Kelsey**), [*Lightcurve Modelling of 2,205 ZTF DR2 Type~Ia Supernovae: Implications for SN Ia Physics and Cosmology*](http://arxiv.org/abs/2602.02677v1), arXiv:2602.02677 [astro-ph.HE]
+5. **Metha Prathaban**, Charlie Hoy, and Michael J. Williams, [*Leveraging rapid parameter estimates for efficient gravitational-wave Bayesian inference via posterior repartitioning*](http://arxiv.org/abs/2601.21630v1), arXiv:2601.21630 [gr-qc]
+6. Phil Wiseman *et al.* (inc. **Lisa Kelsey**), [*Still Accelerating: Type Ia supernova cosmology is robust to host galaxy age evolution*](http://arxiv.org/abs/2601.13785v1), arXiv:2601.13785 [astro-ph.CO]
+7. Luca Brunelli, Filippo Revello, and **Gonzalo Villa**, [*The gravitational wave landscape of cosmic string networks with varying tension*](http://arxiv.org/abs/2601.10790v1), arXiv:2601.10790 [hep-th]
+8. Eleni Bagui, Sébastien Clesse, Federico De Lillo, **Alexander C. Jenkins**, and Mairi Sakellariadou, [*Popcorn in the sky: Identifying primordial black holes in the gravitational-wave background*](http://arxiv.org/abs/2601.07774v1), arXiv:2601.07774 [astro-ph.CO]
+9. Angelo Ricciardone *et al.* (inc. **Alexander C. Jenkins**), [*Probing Cosmic Expansion and Early Universe with Einstein Telescope*](http://arxiv.org/abs/2601.06017v1), arXiv:2601.06017 [astro-ph.CO]
 
 ##### LVK Collaboration Papers
 1. The IceCube Collaboration, The LIGO Scientific Collaboration, the Virgo Collaboration, and the KAGRA Collaboration (inc. **M. Agathos** and **N. Sarin**), [*Deep Search for Joint Sources of Gravitational Waves and High-Energy Neutrinos with IceCube During the Third Observing Run of LIGO and Virgo*](http://arxiv.org/abs/2601.07595v3), arXiv:2601.07595 [astro-ph.HE]
