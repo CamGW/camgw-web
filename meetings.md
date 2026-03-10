@@ -2,13 +2,20 @@
 
 ## Upcoming Meetings
 
-### 5 March 2026
+### 4 June 2026
 
-Our next meeting will take place **1pm–3.30pm** on **Thursday 5 March** in the Hoyle Lecture Theatre at the IoA.
-We’re delighted to be joined by Dr Katy Clough (QMUL), who will give a keynote talk on *“Probing beyond GR and the Standard Model in the strong gravity regime”*.
+Our next meeting will take place **Thursday 4 June** (location and timings TBC).
+We’re delighted to be joined by Prof Tessa Baker (ICG, Portsmouth), who will give a keynote talk on GW cosmology with standard sirens.
 Watch this space for more details.
 
 ## Past Meetings
+
+### 5 March 2026
+
+For our 2025/26 Lent term meeting we were joined by Dr Katy Clough (Queen Mary University of London), who gave a talk on *"Probing beyond GR and the Standard Model in the strong gravity regime"*.
+We also had excellent talks from CamGW members Toshiya Namikawa and Stephanie Buttigieg, as well as a discussion session led by Priscilla Canizares.
+
+- A recording of the first half of the event is [available on YouTube](https://youtu.be/hc-g80jTQzI) (second half missing due to human error - apologies!)
 
 ### 27 November 2025
 
