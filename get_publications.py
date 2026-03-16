@@ -14,6 +14,7 @@ topics = ['gravitational waves',
           'PTAs',
           'PTA',
           'numerical relativity',
+          'gravitational radiation',
           ]
 
 topics = ['all:%22' + topic.replace(' ', '+') + '%22' for topic in topics]

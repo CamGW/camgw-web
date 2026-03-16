@@ -216,6 +216,15 @@
 - **Email:** [eaf49@cam.ac.uk](mailto:eaf49@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/tomasz-kinowski.jpg"
+     alt="Tomasz Kinowski"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Tomasz Kinowski](https://www.ast.cam.ac.uk/people/tomasz.kinowski)
+- **Department:** IoA
+- **Research Interests:** Gravitational waves, LISA, time-frequency domain data analysis, tests of general relativity
+- **Email:** [tk593@cam.ac.uk](mailto:tk593@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/gareth-marks.png"
      alt="Gareth Marks"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
