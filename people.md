@@ -141,6 +141,15 @@
 - **Email:** [kwc43@cam.ac.uk](mailto:kwc43@cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/avishai-gilkis.jpg"
+     alt="Avishai Gilkis"
+     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+### [Avishai Gilkis](https://www.chu.cam.ac.uk/fellows/dr-avishai-gilkis/)
+- **Department:** IoA
+- **Research Interests:** Stellar astrophysics, black hole progenitors, core-collapse supernovae
+- **Email:** [ag2017@cam.ac.uk](mailto:ag2017@cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/emilie-hertig.png"
      alt="Emilie Hertig"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">

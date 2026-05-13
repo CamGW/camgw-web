@@ -8,6 +8,7 @@ Adrian Ka-Wai Chung
 Daniela Cors
 Richard Dyer
 Ericka Florio
+Avishai Gilkis
 Will J. Handley
 Emilie Hertig
 Maya A. Horton
