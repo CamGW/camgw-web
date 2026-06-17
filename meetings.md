@@ -2,13 +2,16 @@
 
 ## Upcoming Meetings
 
-### 4 June 2026
-
-Our next meeting will take place **Thursday 4 June** (location and timings TBC).
-We’re delighted to be joined by Prof Tessa Baker (ICG, Portsmouth), who will give a keynote talk on GW cosmology with standard sirens.
+We are currently planning our next event for Michaelmas term 2026/27.
 Watch this space for more details.
 
 ## Past Meetings
+
+### 4 June 2026
+
+For our 2025/26 Easter term meeting we were joined by Prof Tessa Baker (University of Portsmouth), who gave a talk on *"Cosmology with GW Sirens"*, followed by talks from CamGW members Seppe Staelens, Adrian Chung, and Nikhil Sarin.
+
+- A recording is [available on YouTube](https://youtu.be/h_8KuGUb3oM)
 
 ### 5 March 2026
 
