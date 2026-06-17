@@ -58,15 +58,6 @@
 - **Email:** [wh260@cam.ac.uk](mailto:wh260@cam.ac.uk)
 <div style="clear: both;"></div>
 
-<img src="assets/people/fernando-quevedo.jpg"
-     alt="Fernando Quevedo"
-     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
-### [Fernando Quevedo](https://www.damtp.cam.ac.uk/person/fq201)
-- **Department:** DAMTP
-- **Research Interests:** String Theory and its potential phenomenological and cosmological implications; high-frequency gravitational waves
-- **Email:** [fq201@cam.ac.uk](mailto:fq201@cam.ac.uk)
-<div style="clear: both;"></div>
-
 <img src="assets/people/hiranya-peiris.jpg"
      alt="Hiranya Peiris"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
@@ -74,6 +65,15 @@
 - **Department:** IoA and KICC
 - **Research Interests:** Cosmology, galaxy evolution, astroparticle physics, early universe theory, Bayesian analysis and machine learning, gravitational wave astrophysics
 - **Email:** [hiranya.peiris@ast.cam.ac.uk](mailto:hiranya.peiris@ast.cam.ac.uk)
+<div style="clear: both;"></div>
+
+<img src="assets/people/fernando-quevedo.jpg"
+     alt="Fernando Quevedo"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Fernando Quevedo](https://www.damtp.cam.ac.uk/person/fq201)
+- **Department:** DAMTP
+- **Research Interests:** String Theory and its potential phenomenological and cosmological implications; high-frequency gravitational waves
+- **Email:** [fq201@cam.ac.uk](mailto:fq201@cam.ac.uk)
 <div style="clear: both;"></div>
 
 <img src="assets/people/roman-rafikov.jpg"
@@ -123,15 +123,6 @@
 - **Email:** [pc464@cam.ac.uk](mailto:pc464@cam.ac.uk)
 <div style="clear: both;"></div>
 
-<img src="assets/people/daniela-cors-agullo.png"
-     alt="Daniela Cors Agulló"
-     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
-### Daniela Cors Agulló
-- **Department:** DAMTP
-- **Research Interests:** Numerical relativity, compact objects, critical phenomena, gravitational waves
-- **Email:** [dc889@cam.ac.uk](mailto:dc889@cam.ac.uk)
-<div style="clear: both;"></div>
-
 <img src="assets/people/adrian-ka-wai-chung.png"
      alt="Adrian Ka-Wai Chung"
      style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
@@ -139,6 +130,15 @@
 - **Department:** DAMTP
 - **Research Interests:** Gravitational waves, black hole ringdown, tests of general relativity, cosmology
 - **Email:** [kwc43@cam.ac.uk](mailto:kwc43@cam.ac.uk)
+<div style="clear: both;"></div>
+
+<img src="assets/people/daniela-cors-agullo.png"
+     alt="Daniela Cors Agulló"
+     style="float: left; margin: 10px 40px 30px 0; width: 140px; height: 140px">
+### Daniela Cors Agulló
+- **Department:** DAMTP
+- **Research Interests:** Numerical relativity, compact objects, critical phenomena, gravitational waves
+- **Email:** [dc889@cam.ac.uk](mailto:dc889@cam.ac.uk)
 <div style="clear: both;"></div>
 
 <img src="assets/people/avishai-gilkis.jpg"
