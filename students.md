@@ -1,27 +1,38 @@
 # Information for Students
 
-## Opportunities
+Gravitational-wave research happens across three independent departments:
 
-CamGW offers various opportunities for students interested in gravitational wave research.
+- **[Department of Applied Mathematics and Theoretical Physics (DAMTP)](https://www.damtp.cam.ac.uk/)**
+- **[Institute of Astronomy (IoA)](https://www.ast.cam.ac.uk/)**
+- **[Cavendish Laboratory (Department of Physics)](https://www.phy.cam.ac.uk/)**
 
-### Graduate Students
+Each department offers opportunities for students to get involved in research.
 
-Information about PhD opportunities and graduate programs in gravitational wave physics will be posted here.
+## Postgraduate Study
 
-### Undergraduate Students
+Information on how to apply for PhD/MPhil programmes and taught postgraduate programmes, including funding and scholarships, can be found on the webpages below.
 
-Information about undergraduate research projects, summer internships, and Part III projects will be posted here.
+**DAMTP**
+- https://www.maths.cam.ac.uk/postgrad/research-degrees
+- https://www.maths.cam.ac.uk/postgrad/part-iii/prospective.html
 
-## Getting Involved
+**IoA**
+- https://www.ast.cam.ac.uk/students/prospective-students/postgraduate-applications-astronomy
 
-Students interested in getting involved with CamGW research should:
+**Cavendish**
+- https://www.phy.cam.ac.uk/study/postgraduate/
 
-1. Attend our regular meetings (see [Meetings](meetings.html))
-2. Contact potential supervisors (see [People](people.html))
-3. Explore current research themes (see [Research](research.html))
+## Research Internships
 
-## Funding Opportunities
+Information about summer research internships can be found on the webpages below.
 
-Information about scholarships, grants, and funding opportunities for students will be posted here.
+**DAMTP**
+- https://www.maths.cam.ac.uk/internships/cambridge-mathematics-open-internships
+
+**IoA**
+- https://www.ast.cam.ac.uk/students/summer-internship-programme
+
+**Cavendish**
+- https://www.physsci.cam.ac.uk/research-experience-placements
 
 [Back to Home](index.html)
