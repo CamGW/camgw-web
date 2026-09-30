@@ -21,5 +21,4 @@ CamGW is a collaborative initiative bringing together researchers from various d
 - [Information for Students](students.html)
 - [People](people.html)
 - [Research Themes](research.html)
-- [News & Announcements](news.html)
 - [Publications](publications.html)
