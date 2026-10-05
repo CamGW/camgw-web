@@ -2,8 +2,9 @@
 
 ## Upcoming Meetings
 
-We are currently planning our next event for Michaelmas term 2026/27.
-Watch this space for more details.
+### 25 November 2026
+
+Our 2026/27 Michaelmas term meeting will take place 14.30-17.00 on Wednesday 25 November in the Ryle Meeting Room at KICC. We'll be joined by Prof Laura Nuttall (University of Portsmouth), who will give a talk on EM follow-up of LVK events. Stay tuned for further details!
 
 ## Past Meetings
 

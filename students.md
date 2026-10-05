@@ -1,6 +1,6 @@
 # Information for Students
 
-Gravitational-wave research happens across three independent departments:
+Gravitational-wave research in Cambridge happens across three independent departments:
 
 - **[Department of Applied Mathematics and Theoretical Physics (DAMTP)](https://www.damtp.cam.ac.uk/)**
 - **[Institute of Astronomy (IoA)](https://www.ast.cam.ac.uk/)**
