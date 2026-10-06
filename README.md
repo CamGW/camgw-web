@@ -12,11 +12,10 @@ The website includes the following pages:
 
 - **Home** (`index.md`) - Landing page with links to various departments
 - **Meetings** (`meetings.md`) - Meeting schedules and materials from past meetings
-- **Students** (`students.md`) - Information for students interested in gravitational wave research
 - **People** (`people.md`) - Directory of CamGW members
-- **Research** (`research.md`) - Research themes and activities
-- **News** (`news.md`) - News and announcements
 - **Publications** (`publications.md`) - Recent publications by CamGW members
+- **Research** (`research.md`) - Research themes and activities
+- **Students** (`students.md`) - Information for students interested in gravitational wave research
 
 ## Assets
 

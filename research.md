@@ -38,9 +38,9 @@ Using gravitational waves to probe the early Universe, the dark sector, and the 
 
 CamGW researchers collaborate with major gravitational wave observatories and research groups worldwide:
 
-- The LIGO/Virgo/KAGRA Collaboration (LVK)
-- LISA (Laser Interferometer Space Antenna)
-- Einstein Telescope
-- Square Kilometre Array (SKA)
+- [LIGO Scientific Collaboration (LSC)](https://ligo.org/)
+- [LISA Consortium](https://www.lisamission.org/)
+- [Einstein Telescope (ET)](https://einsteintelescope.eu/)
+- [Square Kilometre Array Observatory (SKAO)](https://www.skao.int/en)
 
 [Back to Home](index.html)
