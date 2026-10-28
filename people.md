@@ -159,6 +159,15 @@
 - **Email:** [emh83@ast.cam.ac.uk](mailto:emh83@ast.cam.ac.uk)
 <div style="clear: both;"></div>
 
+<img src="assets/people/tamanna-jain.jpg"
+     alt="Tamanna Jain"
+     style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
+### [Tamanna Jain](https://www.kings.cam.ac.uk/people/tamanna-jain-0)
+- **Department:** DAMTP
+- **Research Interests:** Post-Newtonian, post-Minkowskian, Effective-one-body methods in GR, modified theories of gravity and exotic objects (such as boson stars). Numerical Relativity for scattering and parameter estimation analysis.
+- **Email:** [tj317@ast.cam.ac.uk](mailto:tj317@ast.cam.ac.uk)
+<div style="clear: both;"></div>
+
 <img src="assets/people/lisa-kelsey.jpg"
      alt="Lisa Kelsey"
      style="float: left; margin: 25px 40px 30px 0; width: 140px; height: 140px">
