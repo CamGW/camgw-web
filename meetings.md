@@ -2,11 +2,15 @@
 
 ## Upcoming Meetings
 
-### 25 November 2026
-
-Our 2026/27 Michaelmas term meeting will take place 14.30-17.00 on Wednesday 25 November in the Ryle Meeting Room at KICC. We'll be joined by [Prof Laura Nuttall](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/laura-nuttall) (University of Portsmouth), who will give a talk on EM follow-up of LVK events. Stay tuned for further details!
+Our next meeting will take place in Lent term (spring 2027). Stay tuned for details!
 
 ## Past Meetings
+
+### 25 November 2026
+
+For our 2026/27 Michaelmas term meeting we were joined by [Prof Laura Nuttall](https://www.port.ac.uk/about-us/structure-and-governance/our-people/our-staff/laura-nuttall) (University of Portsmouth), who gave a talk on *"Challenges of Electromagnetic Follow-Up of LVK Events"*, followed by talks from CamGW members Lucy Oswald, Tomasz Kinowski, and Tamanna Jain.
+
+- A recording is [available on YouTube](https://youtu.be/cszE_Z8SzQc)
 
 ### 4 June 2026
 
