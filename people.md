@@ -156,7 +156,7 @@
 ### [Emilie Hertig](https://www.kicc.cam.ac.uk/staff/emilie-hertig)
 - **Department:** IoA and KICC
 - **Research Interests:** Early-universe cosmology, inflationary physics, CMB delensing, false vacuum decay, gravitational waves, Bayesian inference, machine learning
-- **Email:** [emh83@ast.cam.ac.uk](mailto:emh83@ast.cam.ac.uk)
+- **Email:** [emh83@cam.ac.uk](mailto:emh83@cam.ac.uk)
 <div style="clear: both;"></div>
 
 <img src="assets/people/tamanna-jain.jpg"
@@ -165,7 +165,7 @@
 ### [Tamanna Jain](https://www.kings.cam.ac.uk/people/tamanna-jain-0)
 - **Department:** DAMTP
 - **Research Interests:** Post-Newtonian, post-Minkowskian, Effective-one-body methods in GR, modified theories of gravity and exotic objects (such as boson stars). Numerical Relativity for scattering and parameter estimation analysis.
-- **Email:** [tj317@ast.cam.ac.uk](mailto:tj317@ast.cam.ac.uk)
+- **Email:** [tj317@cam.ac.uk](mailto:tj317@cam.ac.uk)
 <div style="clear: both;"></div>
 
 <img src="assets/people/lisa-kelsey.jpg"
